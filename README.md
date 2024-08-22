@@ -1,0 +1,1 @@
+A VBA project that I undertook at work as a Business intelligence associate. The scripts automate formating on graphs layed out for periodic reports of the company. These scripts saved valuable time of company employees by automating repetative processes. 
